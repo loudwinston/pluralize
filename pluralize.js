@@ -411,6 +411,7 @@
     'staff',
     'swine',
     'trout',
+    'foobar',
     'tuna',
     'whiting',
     'wildebeest',
